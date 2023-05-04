@@ -1,9 +1,9 @@
 # Bem-vindo ao JabuBank ! <br>
 link do servidor que o site está hospedado via vercel: https://jabu-bank.vercel.app/ <br>
 
-## Funcionalidade: <br>
+## Funcionalidades: <br>
 
-#### um site moderno e inovador que permite aos usuários abrir uma conta bancária em poucos passos simples. Ao acessar o site, os visitantes são apresentados à página inicial, onde podem escolher a opção de "Abrir Conta".<br>
+#### Um site moderno e inovador que permite aos usuários abrir uma conta bancária em poucos passos simples. Ao acessar o site, os visitantes são apresentados à página inicial, onde podem escolher a opção de "Abrir Conta".<br>
 
 #### Ao clicar em "Abrir Conta", os usuários são direcionados para a página de registro, que possui um design bonito e criativo. O formulário de registro é fácil de preencher e inclui várias implementações de verificação, como CPF, RG, idade, e-mail e termos de contrato.<br>
 
